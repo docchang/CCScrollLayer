@@ -1,0 +1,4 @@
+CCScrollLayer
+=============
+
+CCScrollLayer delegation improved
